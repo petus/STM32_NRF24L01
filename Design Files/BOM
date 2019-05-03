@@ -14,4 +14,4 @@ R5   1k                 R-EU_M1206         M1206              RESISTOR, European
 S1                      TAC_SWITCHSMD      TACTILE_SWITCH_SMD Momentary Switch                       
 U$1  NRF24L01-SMD       NRF24L01-SMD       NRF24L01-SMD                                              
 U$3  CR2032-HOLDER-20MM CR2032-HOLDER-20MM BATTERY-20MM                                              
-U1   STM32F0        STM32F0        TSSOP20            STM32F042x, STM32F031x, STM32F030, STM32F070x,       
+U1   STM32F0        STM32F0        TSSOP20            STM32F042x, STM32F031x, STM32F030x, STM32F070x,       
