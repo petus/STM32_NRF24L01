@@ -1,0 +1,17 @@
+Part Value              Device             Package            Description                 
+C1   100nF              C-EUC1206          C1206              CAPACITOR, European symbol 
+C4   4u7                C-EUC1206          C1206              CAPACITOR, European symbol  
+C5   100nF              C-EUC1206          C1206              CAPACITOR, European symbol  
+JP1                     M05PTH_LONGPADS    1X05_LONGPADS      Header 5                               
+JP2                     M04LONGPADS        1X04_LONGPADS      Header 4                               
+JP3                     M03LONGPADS        1X03_LONGPADS      Header 3                               
+LED1                    LED1206            LED-1206           LED (Generic)                          
+R1   10k                R-EU_M1206         M1206              RESISTOR, European symbol   
+R2   1k                 R-EU_M1206         M1206              RESISTOR, European symbol   
+R3   4k7                R-EU_M1206         M1206              RESISTOR, European symbol   
+R4   4k7                R-EU_M1206         M1206              RESISTOR, European symbol   
+R5   1k                 R-EU_M1206         M1206              RESISTOR, European symbol   
+S1                      TAC_SWITCHSMD      TACTILE_SWITCH_SMD Momentary Switch                       
+U$1  NRF24L01-SMD       NRF24L01-SMD       NRF24L01-SMD                                              
+U$3  CR2032-HOLDER-20MM CR2032-HOLDER-20MM BATTERY-20MM                                              
+U1   STM32F042FX        STM32F042FX        TSSOP20            STM32F042Fx microcontroller            
